@@ -1,6 +1,6 @@
 variable "myami" {
   description = "print your region specfic ami id"
-  default = "ami-0ec10929233384c7f"
+  default = "ami-07062e2a343acc423"
 }
 
 variable "myinstance" {
